@@ -34,5 +34,17 @@ body {
 }
 
 #Submit{
-    margin-bottom: 2%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+
+
+}
+
+.Comment{
+    height: 100%;
+    width: 100%;
+}
+
+.Filled{
+    background-color: lightgray
 }
