@@ -1,0 +1,38 @@
+﻿html,
+body {
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.NavGap{
+    margin-top: 8%;
+}
+
+
+.Section{
+    box-shadow: 2px 2px inherit;
+    margin-bottom: 3%;
+
+}
+
+.container-fluid{
+    border: 2px solid black;
+    max-width: 50%;
+    border-radius: 1%;
+    background-color: lightblue;
+}
+
+.row{
+    text-align: center;
+    justify-content: center;
+}
+
+.col{
+    text-align:center;
+    top: 0px;
+    left: 0px;
+}
+
+#Submit{
+    margin-bottom: 2%;
+}

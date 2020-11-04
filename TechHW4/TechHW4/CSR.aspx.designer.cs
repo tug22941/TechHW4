@@ -11,7 +11,7 @@ namespace TechHW4
 {
 
 
-    public partial class PageTwo
+    public partial class WebForm1
     {
     }
 }
